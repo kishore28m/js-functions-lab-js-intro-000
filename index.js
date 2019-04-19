@@ -12,5 +12,5 @@ function happyHolidayTo(holiday, name) {
 }
 
 function holidayCountdown(holiday,numOfDays) {
-  return `It's ${days} days unit ${holiday}!`
+  return `It's ${numOfDays} days unit ${holiday}!`
 }
